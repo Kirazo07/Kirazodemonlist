@@ -1,0 +1,23 @@
+{
+  "name": "kirazodemonlist",
+  "version": "1.0.0",
+  "description": "h",
+  "keywords": [
+    "h"
+  ],
+  "homepage": "https://github.com/Kirazo07/Kirazodemonlist#readme",
+  "bugs": {
+    "url": "https://github.com/Kirazo07/Kirazodemonlist/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirazo07/Kirazodemonlist.git"
+  },
+  "license": "ISC",
+  "author": "Kirazo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
