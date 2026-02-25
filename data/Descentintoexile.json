@@ -1,0 +1,18 @@
+{
+    "id": 77518059,
+    "name": "Descent into exile",
+    "author": "GrenadeOfTacos",
+    "creators": ["GrenadeOfTacos"],
+    "verifier": "GrenadeOfTacos",
+    "verification": "j",
+    "percentToQualify": "100",
+    "password": "idk",
+    "records": [
+        {
+            "user": "me",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+    ]
+}
